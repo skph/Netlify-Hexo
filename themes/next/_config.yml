@@ -237,7 +237,7 @@ android_chrome_color: "#222"
 #   image: url-of-image   - Images's url
 custom_logo:
   enabled: false
-  image: /images/00.jpg
+  image: /images/1111.png
 
 # Code Highlight theme
 # Available value:
